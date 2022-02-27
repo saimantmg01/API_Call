@@ -4,4 +4,4 @@
 - [X] Put those data into classes as demonstrated in class
 
 ## Picture
-<img src='' title='Picture' width='' alt='Picture' />
+<img src='pic.png' title='Picture' width='' alt='Picture' />
